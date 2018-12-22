@@ -23,8 +23,6 @@ STEP6:TX2 connet to Arduino through usb-ttl, Arduino connet to ORION through Sof
 STEP7: start roscore and other program
 
 here is my robot:
-
-        AR-tag-Follower/QQ图片20181127221352.jpg
       
 
 
